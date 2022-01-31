@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/GrzywN/nft-preview-card-component-main)
-- Live Site URL: [Repl.it](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/GrzywN/nft-preview-card-component-main)
+- Live Site URL: [Repl.it](https://nft-preview-card-component-main.grzywn.repl.co)
 
 ## My process
 
